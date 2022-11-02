@@ -25,7 +25,7 @@ public class TestClass {
 		System.out.println("The result of sum 4+5 is:" + calc2ResultSum);
 		System.out.println("The factor result is:" + calc2ResultFactor);
 		
-		System.out.println("Que no hombree");
+		System.out.println("Que si hombree");
 	}
 	
 }
